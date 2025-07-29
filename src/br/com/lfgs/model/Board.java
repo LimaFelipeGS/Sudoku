@@ -1,9 +1,9 @@
-package br.com.dio.model;
+package br.com.lfgs.model;
 
 import java.util.Collection;
 import java.util.List;
 
-import static br.com.dio.model.GameStatusEnum.*;
+import static br.com.lfgs.model.GameStatusEnum.*;
 import static java.util.Objects.isNull;
 import static java.util.Objects.nonNull;
 
