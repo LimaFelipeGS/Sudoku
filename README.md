@@ -2,9 +2,7 @@
 
 ## Descrição
 
-Esse projeto é uma implementação do jogo de **Sudoku** desenvolvida em Java. Essa versão do projeto implementa o jogo via console.
-
-[Versão com interface gráfica](https://github.com/LimaFelipeGS/Sudoku/tree/ui)
+Esse projeto é uma implementação do jogo de **Sudoku** desenvolvida em Java. Essa versão do projeto implementa o jogo via console, também foi desenvolvida uma [versão com implementação gráfica](https://github.com/LimaFelipeGS/Sudoku/tree/ui).
 
 ## Exemplo de Uso
 
@@ -21,6 +19,11 @@ Esse projeto é uma implementação do jogo de **Sudoku** desenvolvida em Java. 
   - Não repetir números no mesmo bloco 3x3
 - Controle de status do jogo
 - Interface de execução via console
+
+## Tecnologias Utilizadas
+
+- Java SE
+- Java Swing (implementação gráfica)
 
 ## Tabuleiro do Jogo
 
