@@ -4,13 +4,13 @@
 
 Esse projeto é uma implementação do jogo de **Sudoku** desenvolvida em Java. Essa versão do projeto implementa o jogo via console.
 
+[Versão com interface gráfica](https://github.com/LimaFelipeGS/Sudoku/tree/ui)
+
 ## Exemplo de Uso
 
 <img width="351" height="551" alt="Image" src="https://github.com/user-attachments/assets/b49cecaf-13a9-475c-a15c-55e9f84c7c31" />
 
 <img width="292" height="197" alt="Image" src="https://github.com/user-attachments/assets/64738184-8d98-4710-ac19-bbc53cdff5a6" />
-
-[Versão com interface gráfica](https://github.com/LimaFelipeGS/Sudoku/tree/ui)
 
 ## Funcionalidades
 
